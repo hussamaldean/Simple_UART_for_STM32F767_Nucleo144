@@ -1,0 +1,25 @@
+Dependencies for Project 'UART2', Target 'STM32F767ZITx': (DO NOT MODIFY !)
+CompilerVersion: 5060960::V5.06 update 7 (build 960)::ARMCC
+F (.\main.c)(0x603609BB)(-c --cpu Cortex-M7.fp.dp -g -O0 --apcs=interwork --split_sections-I.\RTE\_STM32F767ZITx-IC:\Users\hussamaldean\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\hussamaldean\AppData\Local\Arm\Packs\Keil\STM32F7xx_DFP\2.13.0\Drivers\CMSIS\Device\ST\STM32F7xx\Include-D__UVISION_VERSION="532" -D_RTE_ -DSTM32F767xx -D_RTE_-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (C:\Users\hussamaldean\AppData\Local\Arm\Packs\Keil\STM32F7xx_DFP\2.13.0\Drivers\CMSIS\Device\ST\STM32F7xx\Include\stm32f7xx.h)(0x5F19719C)
+I (C:\Users\hussamaldean\AppData\Local\Arm\Packs\Keil\STM32F7xx_DFP\2.13.0\Drivers\CMSIS\Device\ST\STM32F7xx\Include\stm32f767xx.h)(0x5F19719C)
+I (C:\Users\hussamaldean\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm7.h)(0x5E8F1772)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5F63CDCC)
+I (C:\Users\hussamaldean\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8F1772)
+I (C:\Users\hussamaldean\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E834D12)
+I (C:\Users\hussamaldean\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8F1772)
+I (C:\Users\hussamaldean\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\mpu_armv7.h)(0x5E8F1772)
+I (C:\Users\hussamaldean\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cachel1_armv7.h)(0x5E8F1772)
+I (C:\Users\hussamaldean\AppData\Local\Arm\Packs\Keil\STM32F7xx_DFP\2.13.0\Drivers\CMSIS\Device\ST\STM32F7xx\Include\system_stm32f7xx.h)(0x5F19719C)
+F (RTE\Device\STM32F767ZITx\startup_stm32f767xx.s)(0x5F19719C)(--cpu Cortex-M7.fp.dp -g --apcs=interwork -I.\RTE\_STM32F767ZITx-IC:\Users\hussamaldean\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\hussamaldean\AppData\Local\Arm\Packs\Keil\STM32F7xx_DFP\2.13.0\Drivers\CMSIS\Device\ST\STM32F7xx\Include--pd "__UVISION_VERSION SETA 532" --pd "_RTE_ SETA 1" --pd "STM32F767xx SETA 1" --pd "_RTE_ SETA 1"--list .\listings\startup_stm32f767xx.lst --xref -o .\objects\startup_stm32f767xx.o --depend .\objects\startup_stm32f767xx.d)
+F (RTE\Device\STM32F767ZITx\system_stm32f7xx.c)(0x5F19719C)(-c --cpu Cortex-M7.fp.dp -g -O0 --apcs=interwork --split_sections-I.\RTE\_STM32F767ZITx-IC:\Users\hussamaldean\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Users\hussamaldean\AppData\Local\Arm\Packs\Keil\STM32F7xx_DFP\2.13.0\Drivers\CMSIS\Device\ST\STM32F7xx\Include-D__UVISION_VERSION="532" -D_RTE_ -DSTM32F767xx -D_RTE_-o .\objects\system_stm32f7xx.o --omf_browse .\objects\system_stm32f7xx.crf --depend .\objects\system_stm32f7xx.d)
+I (C:\Users\hussamaldean\AppData\Local\Arm\Packs\Keil\STM32F7xx_DFP\2.13.0\Drivers\CMSIS\Device\ST\STM32F7xx\Include\stm32f7xx.h)(0x5F19719C)
+I (C:\Users\hussamaldean\AppData\Local\Arm\Packs\Keil\STM32F7xx_DFP\2.13.0\Drivers\CMSIS\Device\ST\STM32F7xx\Include\stm32f767xx.h)(0x5F19719C)
+I (C:\Users\hussamaldean\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\core_cm7.h)(0x5E8F1772)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5F63CDCC)
+I (C:\Users\hussamaldean\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_version.h)(0x5E8F1772)
+I (C:\Users\hussamaldean\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5E834D12)
+I (C:\Users\hussamaldean\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5E8F1772)
+I (C:\Users\hussamaldean\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\mpu_armv7.h)(0x5E8F1772)
+I (C:\Users\hussamaldean\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\Core\Include\cachel1_armv7.h)(0x5E8F1772)
+I (C:\Users\hussamaldean\AppData\Local\Arm\Packs\Keil\STM32F7xx_DFP\2.13.0\Drivers\CMSIS\Device\ST\STM32F7xx\Include\system_stm32f7xx.h)(0x5F19719C)
